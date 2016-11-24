@@ -23,7 +23,7 @@
   },
   "homepage": "http://hospitalrun.io",
   "dependencies": {
-    "csv-parse": "^1.0.2",
+    "csv-parse": "^1.1.7",
     "follow": "^0.12.1",
     "glob": "^7.0.0",
     "mkdirp": "^0.5.1",
